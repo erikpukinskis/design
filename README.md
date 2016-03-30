@@ -11,15 +11,15 @@ How to design
 8 / marketing / this homie needs a customer  
 
 
-phase 0: values
---------------------
+_phase 0: values_
+
 (you don't have an idea)
 
 what do you care about? 
 
 
-phase 1: vision 
---------------------
+_phase 1: vision_
+
 (you know what you care about, but you don't know what to do)
 
 what's something in that realm that people could do if they were organized?
@@ -27,8 +27,8 @@ what's something in that realm that people could do if they were organized?
 what steps would they take?
 
 
-phase 2: prototyping
----------------------------
+_phase 2: prototyping_
+
 (you have a vision but no prototype)
 
 what tools will people in your vision need that don't exist?
