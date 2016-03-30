@@ -11,7 +11,7 @@ How to design
 8 / marketing / this homie needs a customer  
 
 
-*phase 0: values*
+### phase 0: values
 
 (you don't have an idea)
 
