@@ -1,14 +1,14 @@
 How to design
 
 
-1 / values / what should happen?
-2 / prototyping / one more tool
-3 / research / notice
-4 / strategy / decision time
-5 / production / participation
-6 / engineering / automation
-7 / release / let's get you paid wall
-8 / marketing / this homie needs a customer
+1 / values / what should happen?  
+2 / prototyping / one more tool  
+3 / research / notice  
+4 / strategy / decision time  
+5 / production / participation  
+6 / engineering / automation  
+7 / release / let's get you paid wall  
+8 / marketing / this homie needs a customer  
 
 
 phase 0: values
